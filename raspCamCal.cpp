@@ -7,7 +7,7 @@ using namespace std;
 int main(int argc, char* argv[]){
     vector<vector<cv::Point2f>> image_points;
     vector<vector<cv::Point3f>> object_points;
-    char* path = "/home/frank/Documents/git_repo/VisCal/PatternPicture/test_img";
+    char* path = "/Users/aspirin/Documents/git_repo/VisCal/PatternPicture/test_img";
     string path_full;
     int board_w = 4;
     int board_h = 11;
